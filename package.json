@@ -1,0 +1,27 @@
+{
+  "name": "i18n-docker",
+  "version": "1.0.0",
+  "description": "i18n server used to learn k8s",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^2.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaogliu/i18n-docker.git"
+  },
+  "keywords": [
+    "i18n",
+    "k8s"
+  ],
+  "author": "Liu-Xiaoguang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaogliu/i18n-docker/issues"
+  },
+  "homepage": "https://github.com/xiaogliu/i18n-docker#readme"
+}
